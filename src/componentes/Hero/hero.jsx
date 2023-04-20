@@ -57,7 +57,7 @@ const Hero = () => {
         </Stack>
     </Container>
         <Container id="hero" width={"full"} margin="0">
-            <Stack marginLeft="90px" gap="60px">
+            <Stack marginLeft="130px" gap="60px">
                 <HStack width="1200px" justifyContent="space-around" >
                     <VStack>
                         <Stack>
