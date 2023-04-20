@@ -41,8 +41,8 @@ const Service = () => {
                             <Image className='webImg' src={diseño} />
                         </Stack>
                         <CardBody>
-                            <Heading size='md'>Web manteinance </Heading>
-                            <Text>Realizo actividades de mantenimiento para optimizar el funcionamiento.</Text>
+                            <Heading size='md'>Content creation </Heading>
+                            <Text>Creo contenido para marcas con el objetivo de impulsar sus ventas .</Text>
                         </CardBody>
                     </Card>
                 </HStack>
