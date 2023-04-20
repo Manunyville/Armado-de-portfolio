@@ -16,3 +16,50 @@
     position: relative;
      align-items: center;
 }
+
+.imgAbs{
+    position: absolute;
+    left: 1469px;
+
+}
+.stackPortfolio{
+    position: relative;
+
+}
+.cardsProyecto{
+    align-items: center;
+    
+}
+
+
+
+.fiveStars{
+    width: 90px;
+    height: 50px;
+    margin-left: 75px;
+}
+.cardsFeedback{
+   align-items:end;
+    text-align: center;
+    align-content: center;
+    justify-content: space-evenly;
+}
+.imgFeed{
+    width: 70px;
+    height: 80px;
+    position: absolute;
+    left: 115px;
+    bottom: 250px;
+    border-radius: 50%;
+}
+.stackFeed{
+    
+    position: relative;
+}
+.imgabstractaFeed{
+    position: absolute;
+    left: 0px;
+}
+.comillasfeed{
+    margin-left: 220px;
+}
