@@ -50,8 +50,8 @@ const Service = () => {
                                 <Image className='webImg' src={diseño} />
                             </Stack>
                             <CardBody>
-                                <Heading size='md'>Content creation </Heading>
-                                <Text>Creo contenido para marcas con el objetivo de impulsar sus ventas .</Text>
+                                <Heading size='md'>Web maintenance </Heading>
+                                <Text>Me encargo de tareas de mantenimiento para optimizacion de la app web.</Text>
                             </CardBody>
                         </Card>
                     </HStack>
@@ -75,7 +75,7 @@ const Service = () => {
                                 <Heading size='md'> Portfolio proyecto</Heading>
                             </Stack>
                             <CardBody>
-                                <Text>Es una version anterior del Portfolio actual</Text>
+                                <Text>Es la version definitiva del Portfolio actual</Text>
                                 <Button marginTop='4px' as={motion.button} paddingX="65px" whileHover={{ color: '#0C7FB0' }} color={'#F9F9F9'} bg={'#0C7FB0'} variant='solid'>View on github</Button>
                             </CardBody>
                         </Card>
@@ -93,11 +93,11 @@ const Service = () => {
                             <Stack>
 
                                 <Image src={Fotaki} height='150px' />
-                                <Heading size='md'>Promove torpedo deluxe</Heading>
+                                <Heading size='md'>Hotel web</Heading>
                             
                             </Stack>
                             <CardBody>
-                                <Text>Video presentacion nuevo modelo de mate deluxe!</Text>
+                                <Text>Es una pagina web para un hotel de Mar del Plata.</Text>
                                 <Button marginTop='4px' as={motion.button} paddingX='65px' whileHover={{ color: '#0C7FB0' }} color={'#F9F9F9'} bg={'#0C7FB0'} variant='solid'>View on github</Button>
                             </CardBody>
                         </Card>

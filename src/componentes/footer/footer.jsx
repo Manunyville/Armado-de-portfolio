@@ -56,7 +56,7 @@ const Footer = () => {
                     </a>
                     <a href="#misServicios">
                         <Button as={motion.button} whileHover={{ color: '#07CFB0' }} color={'#F9F9F9'} variant='link'>
-                            Content creation
+                            Web Maintenance
                         </Button>
                     </a>
                 </VStack>

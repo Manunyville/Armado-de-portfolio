@@ -66,7 +66,7 @@ const Hero = () => {
 
                             <Heading size={"lg"}>Manuel Nyville</Heading>
                             <Heading fontSize='xl' color={'#0C7FB0'} >Front End Developer</Heading>
-                            <Text color={'#6D7173'}>I am a Front end developer and content creator.</Text>
+                            <Text color={'#6D7173'}>I am a Front end developer.</Text>
                         </Stack>
 
                         <ButtonGroup>

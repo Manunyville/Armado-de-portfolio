@@ -18,7 +18,7 @@ const About = () => {
                     <Stack>
                         <Heading>About me</Heading>
                         <Heading size='lg' color={'#6D7173'}> 02 Meses de experiencia en desarrolo Front end</Heading>
-                        <Text color={'#6D7173'}>Hola, yo soy Manuel, un desarrollador Front end, me encargo del desarrollo de paginas web y aplicaciones web de acuerdo a lo que el cliente proponga. Ademas soy creador de contenido, realizo tanto filmaciones como fotografias para la promocion e impulsion de productos, tambien me encargo de la edicion de estos. </Text>
+                        <Text color={'#6D7173'}>Hola, yo soy Manuel, un desarrollador Front end, me encargo del desarrollo de paginas web y aplicaciones web de acuerdo a lo que el cliente proponga. Ademas transforma ideas complejas en paginas sencillas de utilizar. </Text>
                     </Stack>
                 </VStack>
             </HStack>
