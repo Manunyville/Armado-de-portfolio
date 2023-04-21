@@ -155,6 +155,17 @@ const Service = () => {
                         </CardBody>
                     </Card>
                 </HStack>
+                <VStack gap="15px">
+                    <HStack justify={'space-around'}>
+
+                    <Button as={motion.button} borderRadius='50%' bg={'#F9F9F9'} size='xs' whileHover={{ backgroundColor: '#0C7FB0' }}></Button>
+                    <Button as={motion.button} borderRadius='50%' bg={'#F9F9F9'} size='xs' whileHover={{ backgroundColor: '#0C7FB0' }}> </Button>
+                    <Button as={motion.button} borderRadius='50%' bg={'#F9F9F9'} size='xs' whileHover={{ backgroundColor: '#0C7FB0' }}></Button>
+                    </HStack>
+                <VStack>
+                    <Button arginTop='4px' as={motion.button} paddingX='10px'whileHover={{  color:'#0C7FB0' }} color={'#F9F9F9'} bg={'#0C7FB0'} variant='solid'>View all</Button>
+                </VStack>
+                </VStack>
             </VStack>
         </Stack>
         </>
