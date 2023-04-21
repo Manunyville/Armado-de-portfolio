@@ -16,7 +16,7 @@ const Contacto = () => {
         }
         return (
             <form action="https://formspree.io/f/mzbqknje" onSubmit={handleSubmit}>
-                <VStack gap='15px'>
+                <VStack gap='15px' className='stackForm'>
                     <Input
                         id="text"
                         type="text"
@@ -76,9 +76,9 @@ const Contacto = () => {
     }
     return (
         <Container id='contact'width='full'>
-            <VStack gap='20px'>
+            <VStack gap='20px' className='stackForm'>
                 <Text color={'#0C7FB0'}>Have something in your mind?</Text>
-                <HStack className='stackForm'>
+                <HStack >
                     <Image src={Azul} className='imgContactoAzul'/>
                 </HStack>
                 <Heading>Contact me</Heading>
